@@ -60,3 +60,5 @@ pnpm-lock.yaml
 .eslintcache
 .stylelintcache
 .prettierignore
+
+data/
